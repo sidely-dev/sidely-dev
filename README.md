@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I'm sidely-dev!
 
-<!--
-**sidely-dev/sidely-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Profile](https://shields.io)](https://github.com)
 
-Here are some ideas to get you started:
+### 🚀 About Me
+I am a software developer working on my coding skills and documenting my progress. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on my [java-learning-journey](https://github.com/java-learning-journey) repository.
+- 🌱 I’m currently learning **Java** and backend development.
+- ⚡ Fun fact: My name is inspired by Sid from Ice Age!
+
+### 🛠️ Tech Stack
+![Java](https://shields.io)
+![Git](https://shields.io)
