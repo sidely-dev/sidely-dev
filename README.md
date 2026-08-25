@@ -12,3 +12,7 @@ I am a software developer working on my coding skills and documenting my progres
 ### 🛠️ Tech Stack
 ![Java](https://shields.io)
 ![Git](https://shields.io)
+
+![sidely-dev's GitHub Stats](https://vercel.app)
+![sidely-dev's Top Languages](https://vercel.app)
+
