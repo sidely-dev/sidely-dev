@@ -20,76 +20,22 @@ I'm still early in my development journey, so this GitHub is a place where I'm d
 
 ---
 
-## 🛠️ Technologies I'm Learning
-
-### Languages
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-> This list will grow as I learn and actually use more technologies.
-
 ---
 
-## 📂 Projects
+## 📚 Currently Learning
 
-Some of the projects I'm currently working on or planning:
-
-### 📁 File Explorer
-
-A desktop file-management application inspired by Windows File Explorer.
-
-**Current focus:**
+### ☕ Programming
 
 - Java
-- Java Swing
-- File-system operations
-- Object-oriented programming
-- GUI development
+- Object-Oriented Programming
+- Data Structures
+- Exception Handling
+- Multithreading
 
-**Status:** 🚧 In Development
+### 🏗️ Software Development
 
----
-
-### ☕ Java Learning
-
-A collection of exercises, experiments and small projects documenting my Java learning journey.
-
-**Status:** 📚 Learning
-
----
-
-### 🔨 More Projects Coming
-
-I'm using this space to experiment, learn and build things.
-
----
-
-## 📈 My Development Journey
-
-I'm trying to focus less on simply collecting technologies and more on actually understanding how things work.
-
-My current journey looks something like:
-
-```text
-Learn
-  ↓
-Build
-  ↓
-Break something
-  ↓
-Google / Research
-  ↓
-Fix it
-  ↓
-Understand why it broke
-  ↓
-Document it
-  ↓
-Build something better
-
+- Git & GitHub
+- Systems Design
+- Database Design
+- Software Architecture
+- Testing
